@@ -1,0 +1,50 @@
+#itemthumbnail{
+    margin-bottom:4%;
+    font-family:helvetica;
+    border-radius: 5px;
+    margin-top:2%;
+    background-color: #ECF0F1;
+    box-shadow: 0 0 10px 0 #000;
+}
+
+#itemlista{
+    margin-bottom: 2%;
+    background-color: #000;
+    border-radius: 5px;
+    font-family: helvetica;
+    box-shadow: 0 0 10px 0 #000;
+    text-align: center;
+}
+
+#pagina{
+    background-color: #2C3E50 ;
+}
+
+#cafe,#sorvete,#cerveja,#pizza{
+    float: right;
+}
+
+#imagem{
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 #000;
+}
+
+#lane{
+    
+    padding: 5px;
+    background-color: #1abc9c;
+    border-radius: 3px;
+    float: left;
+    color: #fff;
+}
+
+#champion{
+    
+    padding: 5px;
+    background-color: #2980b9;
+    border-radius: 3px;
+    float: right;
+    color: #fff;
+    margin-left: 30%;
+    
+}

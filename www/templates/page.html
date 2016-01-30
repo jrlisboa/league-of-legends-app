@@ -1,0 +1,14 @@
+<ion-view title="Page" id="pagina">
+    <ion-content overflow-scroll="true" padding="true" class="has-header">
+        <form class="list">
+            <ion-item class="item-thumbnail-left" id="itemthumbnail">
+                <img id="imagem" ng-src="{{fullurl}}"/>
+                <h2>{{nome}}</h2>
+                <p>{{sumonnerId}}</p>
+            </ion-item>
+        </form>
+        <ion-list id="lista">
+            <ion-item href="#/page4" id="itemlista" ng-repeat="d in data"><span id="lane">{{d.lane}}</span></i><span id="champion">{{d.champion}}</span><i id="cafe" class="icon ion-coffee"></ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

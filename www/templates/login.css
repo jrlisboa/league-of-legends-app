@@ -1,0 +1,57 @@
+#btnLogar{
+    
+    background-color: #000;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #fff;
+    font-family: helvetica;
+    width: 100%;
+    float: right;
+}
+#caixa{
+    
+    background-color: #2C3E50;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #fff;
+}
+#titulo{
+    
+    background-color: #2C3E50;
+    background-size: 100%;
+    
+}
+
+#tumb{
+    
+    margin-bottom: 4%;
+    border-radius: 5px;
+    background-color: #ECF0F1;
+    border: 1px solid #ccc;
+    color: #fff;
+    box-shadow: 0 0 30px 0 #000;
+}
+#tudo{
+    
+    background-color: #2C3E50;
+    
+}
+#item{
+    
+    margin-bottom: 4%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 #000;
+}
+
+#foto{
+    
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 #000;
+}
+
+#paragrafo{
+    margin-top:150px;
+    color:white;
+    background-color: black;
+    text-align:center;
+}
